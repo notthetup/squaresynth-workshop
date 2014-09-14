@@ -81,7 +81,7 @@
 
 ![CD4093 Schematic](https://raw.githubusercontent.com/notthetup/squaresynth-workshop/master/4093.png)
 
-![SquareSynth Breadboard Schematic]()
+![SquareSynth Breadboard Schematic](https://raw.githubusercontent.com/notthetup/squaresynth-workshop/master/squaresynth_schem.svg)
 
 ### Square Synth Performance
 
