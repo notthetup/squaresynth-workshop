@@ -26,6 +26,8 @@
 
 ![Imgur](http://i.imgur.com/LnmAWxX.gif)
 
+[![Logic Gates](http://www.inetdaemon.com/img/gates.gif)](http://www.inetdaemon.com/tutorials/basic_concepts/number_systems/binary/gates.shtml)
+
 ### Signals and Waveforms
 
 [Audio Waveforms](http://swphonetics.com/praat/tutorials/understanding-waveforms/)
@@ -61,6 +63,8 @@
 
 [Flux Monkey 4093 Oscillator](http://fluxmonkey.com/electronoize/4093_Oscillator.htm)
 
+[![Gated Oscillator](http://i.imgur.com/kNfGVqU.gif)](http://www.diyaudio.com/forums/parts/236902-calculating-frequency-oscillator.html)
+
 #### Andreas' Lifepatch Variation
 
 ![Square Synth PCB](http://i.imgur.com/Nzptn2I.jpg)
@@ -81,7 +85,12 @@
 
 ![CD4093 Schematic](https://raw.githubusercontent.com/notthetup/squaresynth-workshop/master/4093.png)
 
-![SquareSynth Breadboard Schematic](https://raw.githubusercontent.com/notthetup/squaresynth-workshop/master/squaresynth_schem.svg)
+![SquareSynth Breadboard Schematic](https://raw.githubusercontent.com/notthetup/squaresynth-workshop/master/squaresynth_schem.jpg)
+
+#### Square Synth Web Version
+
+[Square Synth Web](http://codepen.io/notthetup/pen/yriaI)
+
 
 ### Square Synth Performance
 
