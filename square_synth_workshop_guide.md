@@ -69,11 +69,19 @@
 
 ![Schematic](http://i.imgur.com/bPIbchQ.png)
 
+[Eagle CAD Schematic](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth.sch)
+
+[Eagle CAD](http://www.cadsoftusa.com/)
+
 #### Breadboard Version
 
-[Fritzing Schematic + Breadboard Design]()
+[Fritzing Schematic + Breadboard Design](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth.fzz)
 
-[Fritzing]()
+[Fritzing](http://fritzing.org/home/)
+
+![CD4093 Schematic](https://raw.githubusercontent.com/notthetup/squaresynth-workshop/master/4093.png)
+
+![SquareSynth Breadboard Schematic]()
 
 ### Square Synth Performance
 
