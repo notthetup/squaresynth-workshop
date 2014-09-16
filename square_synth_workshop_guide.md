@@ -79,6 +79,10 @@
 
 #### Breadboard Version
 
+##### Breadboards 
+![Breadboards](http://i.imgur.com/QogmNXO.jpg)
+
+##### Schematics 
 [Fritzing Schematic + Breadboard Design](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth.fzz)
 
 [Fritzing](http://fritzing.org/home/)
