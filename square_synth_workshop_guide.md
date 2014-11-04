@@ -10,10 +10,6 @@
 
 ### Circuits
 
-#### Connections
-
-[![LED Circuit](http://artbytes.info/wp-content/uploads/2013/10/led-circuit.gif)](http://artbytes.info/wp-content/uploads/2013/10/led-circuit.gif)
-
 #### Time Characteristics
 
 [![RC Filter](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/1st_Order_Lowpass_Filter_RC.svg/1280px-1st_Order_Lowpass_Filter_RC.svg.png)](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/1st_Order_Lowpass_Filter_RC.svg/1280px-1st_Order_Lowpass_Filter_RC.svg.png)
@@ -79,10 +75,10 @@
 
 #### Breadboard Version
 
-##### Breadboards 
+##### Breadboards
 ![Breadboards](http://i.imgur.com/QogmNXO.jpg)
 
-##### Schematics 
+##### Schematics
 [Fritzing Schematic + Breadboard Design](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth.fzz)
 
 [Fritzing](http://fritzing.org/home/)
