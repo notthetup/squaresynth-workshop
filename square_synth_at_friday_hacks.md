@@ -183,19 +183,11 @@
 
 
 
-
-
 ### Step 4
 
 #### Schematic
 
 ![step4](https://dl.dropboxusercontent.com/u/957/squaresynth/step4.png)
-
-
-
-
-
-### Step 5   
 
 
 
