@@ -5,7 +5,7 @@ Workshop Material for SquareSynth.
 
 ## Friday Hacks!
 
-If you are using at NUS Hackers Friday Hacks, you can use these guides
+If you are following this at NUS Hackers' Friday Hacks, you can use these guides
 
 - [Intro](https://github.com/notthetup/squaresynth-workshop/blob/master/square_synth_at_friday_hacks_intro.md)
 - [Components](https://github.com/notthetup/squaresynth-workshop/blob/master/square_synth_at_friday_hacks_components.md)
