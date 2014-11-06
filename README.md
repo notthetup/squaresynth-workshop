@@ -13,11 +13,11 @@ If you are using at NUS Hackers Friday Hacks, you can use these guides
 
 Also here are the individual schematics for the various steps.
 
-[Step0](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth-step0.fzz)
-[Step1](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth-step1.fzz)
-[Step2](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth-step2.fzz)
-[Step3](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth-step3.fzz)
-[Step4](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth-step4.fzz)
+- [Step0](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth-step0.fzz)
+- [Step1](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth-step1.fzz)
+- [Step2](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth-step2.fzz)
+- [Step3](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth-step3.fzz)
+- [Step4](https://github.com/notthetup/squaresynth-workshop/blob/master/squaresynth-step4.fzz)
 
 
 ## Description
