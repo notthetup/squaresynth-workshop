@@ -1,5 +1,6 @@
 squaresynth-workshop
 ====================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/notthetup/squaresynth-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Workshop Material for SquareSynth.
 
