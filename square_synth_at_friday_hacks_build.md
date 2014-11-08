@@ -15,7 +15,7 @@
 
 #### Schematic
 
-![step0](https://dl.dropboxusercontent.com/u/957/squaresynth/step0.png)
+![step0](https://dl.dropboxusercontent.com/u/957/squaresynth/step0.jpg)
 
 
 
@@ -33,7 +33,7 @@
 
 #### Schematic
 
-![step1](https://dl.dropboxusercontent.com/u/957/squaresynth/step1.png)
+![step1](https://dl.dropboxusercontent.com/u/957/squaresynth/step1.jpg)
 
 
 ### Step 2
@@ -48,7 +48,7 @@
 
 #### Schematic
 
-![step2](https://dl.dropboxusercontent.com/u/957/squaresynth/step2.png)
+![step2](https://dl.dropboxusercontent.com/u/957/squaresynth/step2.jpg)
 
 
 
@@ -56,7 +56,7 @@
 
 #### Schematic
 
-![step3](https://dl.dropboxusercontent.com/u/957/squaresynth/step3.png)
+![step3](https://dl.dropboxusercontent.com/u/957/squaresynth/step3.jpg)
 
 
 
@@ -64,6 +64,6 @@
 
 #### Schematic
 
-![step4](https://dl.dropboxusercontent.com/u/957/squaresynth/step4.png)
+![step4](https://dl.dropboxusercontent.com/u/957/squaresynth/step4.jpg)
 
 
